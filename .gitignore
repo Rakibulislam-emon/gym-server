@@ -3,6 +3,4 @@ node_modules/
 # Firebase debug log
 firebase-debug.log
 
-# Vercel configuration
-vercel.json
 .env
