@@ -148,15 +148,15 @@ async function run() {
 
         // its a register route
         app.post('/users', async (req, res) => {
-            // console.log(req.body);
+          
             const result = await usersCollection.insertOne(req.body);
             res.status(200).send(result);
         })
         //  its a login route
         app.post('/login', async (req, res) => {
-            // console.log(req.body);
+            
             const user = await usersCollection.findOne({ email: req.body?.email });
-            // console.log('user:', user)
+          
             if (!user) {
                 return res.status(400).json({ message: 'Invalid credentials' });
             }
