@@ -1,0 +1,88 @@
+[debug] [2024-08-19T04:57:59.594Z] ----------------------------------------------------------------------
+[debug] [2024-08-19T04:57:59.596Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\UseR\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-08-19T04:57:59.596Z] CLI Version:   13.9.0
+[debug] [2024-08-19T04:57:59.597Z] Platform:      win32
+[debug] [2024-08-19T04:57:59.597Z] Node Version:  v20.10.0
+[debug] [2024-08-19T04:57:59.597Z] Time:          Mon Aug 19 2024 10:57:59 GMT+0600 (Bangladesh Standard Time)
+[debug] [2024-08-19T04:57:59.597Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-08-19T04:57:59.601Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-08-19T04:57:59.602Z] > authorizing via signed-in user (mdemon01857761509@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\React-Project-Resume\Gym-Project\server
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2024-08-19T04:58:10.124Z] > refreshing access token with scopes: []
+[debug] [2024-08-19T04:58:10.126Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2024-08-19T04:58:10.126Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2024-08-19T04:58:10.396Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2024-08-19T04:58:10.397Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2024-08-19T04:58:10.403Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2024-08-19T04:58:11.392Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2024-08-19T04:58:11.392Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[debug] [2024-08-19T05:01:27.124Z] ----------------------------------------------------------------------
+[debug] [2024-08-19T05:01:27.126Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\UseR\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-08-19T05:01:27.126Z] CLI Version:   13.9.0
+[debug] [2024-08-19T05:01:27.126Z] Platform:      win32
+[debug] [2024-08-19T05:01:27.126Z] Node Version:  v20.10.0
+[debug] [2024-08-19T05:01:27.126Z] Time:          Mon Aug 19 2024 11:01:27 GMT+0600 (Bangladesh Standard Time)
+[debug] [2024-08-19T05:01:27.126Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-08-19T05:01:27.131Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-08-19T05:01:27.131Z] > authorizing via signed-in user (mdemon01857761509@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\React-Project-Resume\Gym-Project\server
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2024-08-19T05:02:02.684Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2024-08-19T05:02:03.551Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2024-08-19T05:02:03.551Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[debug] [2024-08-19T05:04:40.312Z] ----------------------------------------------------------------------
+[debug] [2024-08-19T05:04:40.314Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\UseR\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-08-19T05:04:40.314Z] CLI Version:   13.9.0
+[debug] [2024-08-19T05:04:40.314Z] Platform:      win32
+[debug] [2024-08-19T05:04:40.314Z] Node Version:  v20.10.0
+[debug] [2024-08-19T05:04:40.315Z] Time:          Mon Aug 19 2024 11:04:40 GMT+0600 (Bangladesh Standard Time)
+[debug] [2024-08-19T05:04:40.315Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-08-19T05:04:40.319Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-08-19T05:04:40.319Z] > authorizing via signed-in user (mdemon01857761509@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\React-Project-Resume\Gym-Project\server
+
