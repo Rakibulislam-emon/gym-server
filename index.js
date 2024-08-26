@@ -160,7 +160,7 @@ async function run() {
             if (!user) {
                 return res.status(400).json({ message: 'Invalid credentials' });
             }
-            // console.log(user.email);
+            
 
             try {
                 // generate jwt token
