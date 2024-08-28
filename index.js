@@ -5,7 +5,7 @@ const cors = require('cors');
 require('dotenv').config();
 const app = express();
 app.use(cors({
-    origin: ['http://localhost:5173', 'https://fit-gym-7bce5.web.app'],
+    origin: ['http://localhost:5173', 'https://fit-gym-7bce5.web.app','https://gym-omega-black.vercel.app'],
     methods: ['GET', 'POST', 'PATCH', 'DELETE'],
 }));
 app.use(express.json());
